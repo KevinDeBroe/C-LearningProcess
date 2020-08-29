@@ -1,0 +1,7 @@
+C:\Users\Gebruiker\Documents\GitHub\C-LearningProcess\ConsoleMethodes\Methodes Basic\obj\Debug\Methodes Basic.csprojAssemblyReference.cache
+C:\Users\Gebruiker\Documents\GitHub\C-LearningProcess\ConsoleMethodes\Methodes Basic\obj\Debug\Methodes Basic.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Documents\GitHub\C-LearningProcess\ConsoleMethodes\Methodes Basic\bin\Debug\Methodes Basic.exe.config
+C:\Users\Gebruiker\Documents\GitHub\C-LearningProcess\ConsoleMethodes\Methodes Basic\bin\Debug\Methodes Basic.exe
+C:\Users\Gebruiker\Documents\GitHub\C-LearningProcess\ConsoleMethodes\Methodes Basic\bin\Debug\Methodes Basic.pdb
+C:\Users\Gebruiker\Documents\GitHub\C-LearningProcess\ConsoleMethodes\Methodes Basic\obj\Debug\Methodes Basic.exe
+C:\Users\Gebruiker\Documents\GitHub\C-LearningProcess\ConsoleMethodes\Methodes Basic\obj\Debug\Methodes Basic.pdb
